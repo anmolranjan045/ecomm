@@ -142,7 +142,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'aranjan_be20@thapar.edu'
-EMAIL_HOST_PASSWORD = 'sjbzvppoxkttodpk'
+EMAIL_HOST_PASSWORD = '#'
 
-KEY = 'rzp_test_zbATZunG7pwHAj'
-SECRET = 'gpbUvfAT0iHFnvGtet32ZsEl'
+KEY = '#'
+SECRET = '#'
